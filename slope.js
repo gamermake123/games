@@ -1,4 +1,4 @@
-document.write( '<script type=\"text/javascript\">\n' );
+javascript:document.write( '<script type=\"text/javascript\">\n' );
 document.write( '                window.jstiming.load.tick(\'scl\');\n' );
 document.write( '              </script>\n' );
 document.write( '<div id=\"sites-chrome-main-wrapper-inside\">\n' );
